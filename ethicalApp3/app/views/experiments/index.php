@@ -8,7 +8,7 @@
         <a href="<?php echo URLROOT; ?>/experiments/add" class="btn btn-primary pull-right">
             <i class="fa fa-pencil">Add Eeperiment</i>
         </a>
-        <a href="<?php echo URLROOT; ?>/experiments/upload" class="btn btn-primary pull-right">
+        <a href="<?php echo URLROOT; ?>/experiments/file_upload.html" class="btn btn-primary pull-right">
             <i class="fa fa-pencil">Add Uploads</i>
         </a>
         <a href="<?php echo URLROOT; ?>/experiments/ethics" class="btn btn-primary pull-right">
